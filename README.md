@@ -1,4 +1,4 @@
-wp
+WordPress Snippets
 ==
 
 WordPress Snippets
