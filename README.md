@@ -3,7 +3,7 @@ WordPress Snippets
 
 ## Gravity Forms
 
-`Change Default Spinner`
+### Change Default Spinner
 
 ```php
 /**
