@@ -17,3 +17,12 @@ function tp_custom_gforms_spinner($src) {
 	return get_template_directory_uri() . '/images/ajax-loader.gif';
 }
 ```
+
+### Removes the Confirmation Anchor on form Submit
+
+```php
+/**
+ * Removes the Confirmation Anchor on form Submit
+ */
+add_filter('gform_confirmation_anchor', '__return_false');
+```
